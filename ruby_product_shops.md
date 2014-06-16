@@ -8,6 +8,6 @@ Name                                        | Location
 --------------------------------------------|---------
 [CodeGuard](https://codeguard.com/)         |
 [DealerMatch](http://www3.dealermatch.com/) |
-[AppSurfer](http://www.appsurfer.com/) | Word wide (HQ in Pune, India)
+[AppSurfer](http://www.appsurfer.com/)      | Pune, India
 [Travis CI](http://travis-ci.com)           | world wide (HQ in Berlin, Germany)
 [Whitepages](http://whitepages.com)         |
